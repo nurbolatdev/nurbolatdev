@@ -1,4 +1,50 @@
-## Hi there my name is Nurbolat 👋
+# 👋 Hi, I'm Nurbolat
+
+💻 Java Backend Developer (Junior)  
+🌍 Based in Almaty, Kazakhstan  
+🚀 Focused on building scalable backend systems and full-stack applications.
+
+---
+
+## 🧑‍💻 About Me
+
+I am a Java developer focused on backend development and modern web applications.
+
+Currently I am improving my skills in:
+
+- Java backend architecture
+- Spring Boot ecosystem
+- REST API design
+- Security (JWT, authentication)
+- Databases and SQL
+- Full-stack development with React
+
+I enjoy building real projects to understand how production systems work.
+
+
+## 📚 Currently Learning
+
+- Microservices architecture
+- Docker & containerization
+- Spring Cloud
+- Kafka
+- System design
+
+---
+
+
+
+## 📫 Contact
+
+LinkedIn:  
+(put your linkedin)
+
+Email:  
+(your email)
+
+---
+
+⭐ Always open to learning, collaboration and new opportunities.
 
 
 # 💻 Tech Stack:
