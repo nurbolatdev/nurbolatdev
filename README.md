@@ -16,7 +16,7 @@ Currently I am improving my skills in:
 - Spring Boot ecosystem
 - REST API design
 - Security (JWT, authentication)
-- Databases and SQL
+- Databases and PostgresSQL
 - Full-stack development with React
 
 I enjoy building real projects to understand how production systems work.
